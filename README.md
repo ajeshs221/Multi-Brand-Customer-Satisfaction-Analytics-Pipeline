@@ -10,6 +10,7 @@ This project builds an end-to-end analytical pipeline to evaluate and compare cu
 Star ratings alone fail to capture nuance, sarcasm, and the reasoning behind customer opinions. This project goes beyond surface-level metrics to determine which manufacturer delivers the highest genuine customer satisfaction.
 
 🛠️ Pipeline
+
 Web Scraping — Automated collection of 898+ customer reviews using Python and Selenium, handling dynamic page loads, brand-specific pagination, and anti-bot measures across manufacturer and retailer sites.
 Data Cleaning & Preprocessing — Regex-based cleaning (lowercasing, punctuation/HTML removal), invalid rating filtering, and null-text handling.
 Transformer-Based Sentiment Analysis — DistilBERT (via Hugging Face + TensorFlow) used to classify sentiment and generate confidence scores for each review's text.
