@@ -1,5 +1,6 @@
 # Multi-Brand-Customer-Satisfaction-Analytics-Pipeline
 Customer Satisfaction Analysis: Acer, Asus, Dell, and Lenovo Laptops
+
 📌 Overview
 
 This project builds an end-to-end analytical pipeline to evaluate and compare customer satisfaction across four major laptop manufacturers — Acer, Asus, Dell, and Lenovo — by combining web-scraped customer reviews, transformer-based sentiment analysis, and statistical reliability scoring. Rather than relying on star ratings alone, this pipeline captures the emotional tone and context behind customer feedback to produce a more accurate, data-driven satisfaction ranking.
