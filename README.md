@@ -23,6 +23,7 @@ Power BI Dashboards — Interactive visualizations of ratings, sentiment, reliab
 Lenovo led across nearly every metric — highest average rating (4.7), sentiment score (0.62), Wilson score (0.90), and satisfaction score (0.80).
 Dell ranked a close second, and actually topped the composite score (0.82) due to higher review volume.
 Asus and Acer trailed in sentiment and satisfaction, with Acer scoring lowest overall.
+
 🧰 Tech Stack
 
 Python · Selenium · Pandas · TensorFlow · Hugging Face Transformers (DistilBERT) · scikit-learn · Power BI · Matplotlib/Seaborn
