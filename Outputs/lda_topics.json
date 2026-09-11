@@ -1,0 +1,294 @@
+{
+  "acer": {
+    "n_reviews": 205,
+    "topics": [
+      {
+        "topic_idx": 0,
+        "top_words": [
+          "laptop",
+          "best",
+          "gaming",
+          "buy",
+          "good",
+          "price",
+          "really",
+          "great",
+          "performance",
+          "like",
+          "acer",
+          "battery"
+        ]
+      },
+      {
+        "topic_idx": 1,
+        "top_words": [
+          "gaming",
+          "laptop",
+          "display",
+          "ai",
+          "ultra",
+          "performance",
+          "oled",
+          "just",
+          "acer",
+          "helios",
+          "rtx",
+          "16"
+        ]
+      },
+      {
+        "topic_idx": 2,
+        "top_words": [
+          "laptop",
+          "battery",
+          "performance",
+          "gaming",
+          "just",
+          "game",
+          "issues",
+          "like",
+          "time",
+          "use",
+          "don",
+          "running"
+        ]
+      },
+      {
+        "topic_idx": 3,
+        "top_words": [
+          "laptop",
+          "great",
+          "screen",
+          "price",
+          "good",
+          "gaming",
+          "performance",
+          "games",
+          "quality",
+          "cpu",
+          "gpu",
+          "display"
+        ]
+      }
+    ]
+  },
+  "asus": {
+    "n_reviews": 187,
+    "topics": [
+      {
+        "topic_idx": 0,
+        "top_words": [
+          "laptop",
+          "like",
+          "premium",
+          "setup",
+          "plastic",
+          "great",
+          "recommend",
+          "gaming",
+          "monitor",
+          "pc",
+          "nice",
+          "triple"
+        ]
+      },
+      {
+        "topic_idx": 1,
+        "top_words": [
+          "laptop",
+          "gaming",
+          "performance",
+          "games",
+          "asus",
+          "great",
+          "screen",
+          "like",
+          "just",
+          "strix",
+          "power",
+          "g18"
+        ]
+      },
+      {
+        "topic_idx": 2,
+        "top_words": [
+          "laptop",
+          "just",
+          "best",
+          "asus",
+          "really",
+          "gaming",
+          "got",
+          "like",
+          "battery",
+          "excellent",
+          "enjoying",
+          "games"
+        ]
+      },
+      {
+        "topic_idx": 3,
+        "top_words": [
+          "laptop",
+          "gaming",
+          "good",
+          "asus",
+          "like",
+          "just",
+          "going",
+          "screen",
+          "ve",
+          "performance",
+          "time",
+          "nice"
+        ]
+      }
+    ]
+  },
+  "dell": {
+    "n_reviews": 335,
+    "topics": [
+      {
+        "topic_idx": 0,
+        "top_words": [
+          "laptop",
+          "great",
+          "alienware",
+          "screen",
+          "gaming",
+          "performance",
+          "smooth",
+          "use",
+          "desktop",
+          "18",
+          "games",
+          "nice"
+        ]
+      },
+      {
+        "topic_idx": 1,
+        "top_words": [
+          "laptop",
+          "dell",
+          "good",
+          "alienware",
+          "gaming",
+          "just",
+          "support",
+          "like",
+          "computer",
+          "games",
+          "fast",
+          "product"
+        ]
+      },
+      {
+        "topic_idx": 2,
+        "top_words": [
+          "service",
+          "customer",
+          "speed",
+          "excellent",
+          "business",
+          "times",
+          "horrible",
+          "thing",
+          "graphics",
+          "marketing",
+          "purchase",
+          "ve"
+        ]
+      },
+      {
+        "topic_idx": 3,
+        "top_words": [
+          "great",
+          "really",
+          "game",
+          "screen",
+          "battery",
+          "runs",
+          "love",
+          "amazing",
+          "smoothly",
+          "want",
+          "laptop",
+          "hours"
+        ]
+      }
+    ]
+  },
+  "lenovo": {
+    "n_reviews": 171,
+    "topics": [
+      {
+        "topic_idx": 0,
+        "top_words": [
+          "laptop",
+          "gaming",
+          "great",
+          "computer",
+          "battery",
+          "fast",
+          "work",
+          "good",
+          "quality",
+          "screen",
+          "use",
+          "oled"
+        ]
+      },
+      {
+        "topic_idx": 1,
+        "top_words": [
+          "best",
+          "laptop",
+          "lenovo",
+          "device",
+          "ive",
+          "return",
+          "issues",
+          "decision",
+          "2025",
+          "lighting",
+          "version",
+          "card"
+        ]
+      },
+      {
+        "topic_idx": 2,
+        "top_words": [
+          "purchase",
+          "love",
+          "product",
+          "happy",
+          "satisfied",
+          "did",
+          "battery",
+          "noticed",
+          "drains",
+          "laptops",
+          "plugged",
+          "process"
+        ]
+      },
+      {
+        "topic_idx": 3,
+        "top_words": [
+          "great",
+          "laptop",
+          "issues",
+          "like",
+          "games",
+          "amazing",
+          "good",
+          "running",
+          "does",
+          "far",
+          "best",
+          "buy"
+        ]
+      }
+    ]
+  }
+}
