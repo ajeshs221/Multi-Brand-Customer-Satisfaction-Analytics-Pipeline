@@ -17,7 +17,9 @@ Transformer-Based Sentiment Analysis — DistilBERT (via Hugging Face + TensorFl
 Composite Satisfaction Scoring — A weighted formula combining normalized star ratings (60%) and sentiment scores (40%) to produce a unified satisfaction metric per review.
 Wilson Lower Bound Scoring — Statistical confidence ranking (95% CI) to fairly compare brands despite uneven review volumes, preventing brands with few reviews from appearing artificially strong.
 Power BI Dashboards — Interactive visualizations of ratings, sentiment, reliability, and satisfaction scores per brand, including word clouds and review-level scatter/distribution plots.
+
 📊 Key Findings
+
 Lenovo led across nearly every metric — highest average rating (4.7), sentiment score (0.62), Wilson score (0.90), and satisfaction score (0.80).
 Dell ranked a close second, and actually topped the composite score (0.82) due to higher review volume.
 Asus and Acer trailed in sentiment and satisfaction, with Acer scoring lowest overall.
